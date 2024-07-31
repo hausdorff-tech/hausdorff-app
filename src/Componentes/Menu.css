@@ -1,0 +1,23 @@
+#navbar{
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+}
+.link{
+    text-decoration: none;
+    color:black;
+    font-size: larger;
+}
+
+.linkContainer{
+    margin-top:4%;
+}
+
+#logoContainer{
+    margin-top:0; 
+    margin-left:-4%;   
+}
+#Logo{
+    width: 65%;
+    height:70;
+}
